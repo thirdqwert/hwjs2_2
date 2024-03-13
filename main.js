@@ -13,7 +13,7 @@ alert(numberIpn);
 
 
 do {
-    var steps = +prompt('Введите число ступенук')
+    var steps = +prompt('Введите число ступенек')
 } while (isNaN(steps) || steps == 0);
 do {
     var middle = prompt('Ведите первый символ')
